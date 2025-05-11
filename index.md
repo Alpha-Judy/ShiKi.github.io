@@ -4,7 +4,6 @@
 
 layout: home
 title: "I LOVE SHIKI"
-permalink: /about/
 ---
 
 #  ShiKi 💖  &&  🐷
