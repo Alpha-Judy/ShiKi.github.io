@@ -23,7 +23,7 @@ email: "shiki@example.com"
 description: "这是一个记录美好生活与分享兴趣爱好的地方。"
 url: "https://alpha-judy.github.io/ShiKi.github.io"
 github_username: "Alpha_Judy"
-
+theme: minima
 # social links (optional)
 instagram_username: SHI KI
 weibo_username: SHI KI
