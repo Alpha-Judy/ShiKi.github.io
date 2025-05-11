@@ -3,25 +3,21 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: "About"
+title: "I LOVE SHIKI"
 permalink: /about/
 ---
 
-# 你好，我是 ShiKi 💖
+#  ShiKi 💖  &&  🐷
 
-欢迎来到我的个人页面，这里会分享一些我的日常、兴趣爱好和生活故事！
+This website is used for recording our love stories......
 
-## 关于我
+## About us ?
 
-- 🏫 **学校**: 某某大学
-- 📚 **专业**: 某某专业
-- 🌼 **兴趣爱好**: 阅读、电影、绘画、音乐
-- 🎀 **最喜欢的一句话**: *"你的温柔是我的最爱"*
+- Anniversary : 2025.5.5
 
-## 联系我
 
-- 📧 邮箱：[shiki@example.com](mailto:shiki@example.com)
-- 📷 Instagram：[我的Instagram](https://instagram.com/)
-- 🐧 QQ：[123456789]
+## To be continued
 
-期待与你一起探索生活的美好～
+
+
+时间是最伟大的艺术家
