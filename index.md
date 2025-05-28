@@ -40,11 +40,13 @@ Anniversary: <strong>2025.5.5</strong>
 
 ---
 
+
+
 ## 📸 我们的照片墙
 
 <div class="gallery">
-  <img src="/Users/fredy/Downloads/ShiKi.github.io/assets\:images/SQ00.jpg" alt="亚庇萤火夜">
-  <img src="/Users/fredy/Downloads/ShiKi.github.io/assets\:images/SQ01.jpg" alt="海边餐厅">
+  <img src="assets/images/SQ00.jpg" width="300" alt="亚庇萤火夜">
+  <img src="assets/images/SQ01.jpg" alt="海边餐厅">
 </div>
 
 ---
@@ -57,9 +59,10 @@ Anniversary: <strong>2025.5.5</strong>
 
 ## 🎬 我们的视频回忆
 
+
 <div class="video-box">
   <video width="320" height="240" controls>
-    <source src="/Users/fredy/Downloads/ShiKi.github.io/assets\:videos" type="video/mp4">
+    <source src="{/assets/videos/lovestory.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
