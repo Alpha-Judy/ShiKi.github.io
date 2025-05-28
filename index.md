@@ -35,7 +35,6 @@ title: "I LOVE SHIKI"
 <div class="center-text">
 This website is used for recording our love stories...  
 Anniversary: <strong>2025.5.5</strong>  
-时间是最伟大的艺术家 ✨
 </div>
 
 ---
