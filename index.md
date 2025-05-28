@@ -1,10 +1,15 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
-title: "I LOVE SHIKI"
+layout: page
+title: "Fredy 💗💗💗 Aurelia"
 ---
+
+# 💖 Our photo wall
+
+![Seaside restaurant 01](assets\:images/SQ01.jpg)
+![Seaside restaurant 02](assets\:images/SQ02.jpg)
+
 
 #  ShiKi 💖  &&  🐷
 

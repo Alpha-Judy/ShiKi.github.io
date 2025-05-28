@@ -15,6 +15,14 @@ This website is used for recording our love stories......
 
 - Anniversary : 2025.5.5
 
+## Story01
+
+春风沉醉的夜晚......
+
+<video width="640" height="360" controls>
+  <source src="/Users/fredy/Downloads/ShiKi.github.io/assets\:videos/SQ.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## To be continued
 
